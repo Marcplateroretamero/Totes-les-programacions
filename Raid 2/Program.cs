@@ -25,7 +25,6 @@ namespace Array_2
                     n++;
                 }
             }
-
             Console.WriteLine("Hi han {0} números de {1}", n, num_casella);
 
         }

@@ -12,7 +12,6 @@ namespace Ex_arrays__2_
         //Rellena un array de 10 valores de tipo entero de forma aleatoria. Ordena el array de menor a mayor en el mismo array.No se debe realizar un array complementario ni auxiliar.
         {
             int[] numeros = new int[10];
-            int menor, mayor;
             Random aleatorio = new Random();
 
             for (int i = 0; i < numeros.Length; i++)
